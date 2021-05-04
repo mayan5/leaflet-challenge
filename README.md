@@ -1,1 +1,1 @@
-# leaflet-challenge
+Earthquake map with radius and color determined by magnitude and a static legend. 
